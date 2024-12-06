@@ -1,2 +1,4 @@
 # Provenance
-This is my first repository on Github
+This is my first Git repository.
+<br>
+Author - Kaustav Prakash Sarma.
